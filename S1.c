@@ -9,7 +9,7 @@ int main()
     scanf("%d %d %d", &h2, &m2, &s2);
 
     if (h1 > h2) {
-        printf("Both are equal\n");
+        printf("Time 1 is greater\n");
     }
     else if (h1 < h2) {
         printf("Time 2 is greater\n");
